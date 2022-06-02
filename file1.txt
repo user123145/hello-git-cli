@@ -6,3 +6,4 @@ Hello Git
 3. mybranch1 추가
 4. 마이브랜치 수정1
 some hot fix
+기능 1 추가
